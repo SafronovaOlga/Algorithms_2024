@@ -1,4 +1,4 @@
-public class HomeWork_07 {
+public class TeamWork_07{
 
     /**
      * Написать алгоритм, который принимает на вход предложение и переводит его в Sentence case
@@ -30,7 +30,7 @@ public class HomeWork_07 {
 
     public static void main(String[] args) {
 
-        HomeWork_07 sentence = new HomeWork_07();
+        TeamWork_07 sentence = new TeamWork_07();
 
         System.out.println(sentence.printToSentenceCase("маМа"));
     }
