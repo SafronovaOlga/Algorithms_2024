@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13f0e4cf-4acd-42fb-9ae9-94a4a81a2dc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork_07Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW7_Teamwork_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TeamWork06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HW7_Teamwork_27Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TeamWork06Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +42,19 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.HomeWork_07Test.testToSentenceCaseEmptyString">
-    <configuration name="HomeWork_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork_07" />
+  <component name="RunManager" selected="TestNG.TeamWork06Test.testGetText">
+    <configuration name="HW7_Teamwork_27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW7_Teamwork_27" />
       <module name="Algorithms_2024" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork_07Test.testCapitalizeMyTitle_ToSentenceCase" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HW7_Teamwork_27Test.testIsEmoptyUniqueWordsAmount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_2024" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork_07Test" />
-      <option name="METHOD_NAME" value="testCapitalizeMyTitle_ToSentenceCase" />
+      <option name="MAIN_CLASS_NAME" value="HW7_Teamwork_27Test" />
+      <option name="METHOD_NAME" value="testIsEmoptyUniqueWordsAmount" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -62,11 +62,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork_07Test.testToSentenceCaseEmptyString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HW7_Teamwork_27Test.testVerifyUniqueWordsAmount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_2024" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork_07Test" />
-      <option name="METHOD_NAME" value="testToSentenceCaseEmptyString" />
+      <option name="MAIN_CLASS_NAME" value="HW7_Teamwork_27Test" />
+      <option name="METHOD_NAME" value="testVerifyUniqueWordsAmount" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -74,11 +74,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork_07Test.testToSentenceCaseHappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HW7_Teamwork_27Test.testVerifyUniqueWordsAmountNull" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_2024" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork_07Test" />
-      <option name="METHOD_NAME" value="testToSentenceCaseHappyPath" />
+      <option name="MAIN_CLASS_NAME" value="HW7_Teamwork_27Test" />
+      <option name="METHOD_NAME" value="testVerifyUniqueWordsAmountNull" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -86,11 +86,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenTest.testEvenNumberHappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TeamWork06Test.testGetText" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Algorithms_2024" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OddEvenTest" />
-      <option name="METHOD_NAME" value="testEvenNumberHappyPath" />
+      <option name="MAIN_CLASS_NAME" value="TeamWork06Test" />
+      <option name="METHOD_NAME" value="testGetText" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomeWork_07Test.testToSentenceCaseEmptyString" />
-        <item itemvalue="TestNG.HomeWork_07Test.testCapitalizeMyTitle_ToSentenceCase" />
-        <item itemvalue="TestNG.HomeWork_07Test.testToSentenceCaseHappyPath" />
-        <item itemvalue="Application.HomeWork_07" />
-        <item itemvalue="TestNG.OddEvenTest.testEvenNumberHappyPath" />
+        <item itemvalue="TestNG.TeamWork06Test.testGetText" />
+        <item itemvalue="TestNG.HW7_Teamwork_27Test.testVerifyUniqueWordsAmountNull" />
+        <item itemvalue="TestNG.HW7_Teamwork_27Test.testIsEmoptyUniqueWordsAmount" />
+        <item itemvalue="TestNG.HW7_Teamwork_27Test.testVerifyUniqueWordsAmount" />
+        <item itemvalue="Application.HW7_Teamwork_27" />
       </list>
     </recent_temporary>
   </component>
