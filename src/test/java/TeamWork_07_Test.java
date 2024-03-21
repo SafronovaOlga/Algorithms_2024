@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
-public class HomeWork_07Test {
+public class TeamWork_07_Test{
 
 //    private static final String SENTENCE = "мама мыла Раму.";
 //    private static final String URL = "https://capitalizemytitle.com/";
@@ -21,7 +21,7 @@ public class HomeWork_07Test {
         // final String expectedResult = new HomeWork_07().printToSentenceCase(SENTENCE);
        // final String expectedResult = new HomeWork_07().printToSentenceCase(TestData.SENTENCE);
 
-        final String expectedResult = new HomeWork_07().printToSentenceCase(TEST_SENTENCE);
+        final String expectedResult = new TeamWork_07().printToSentenceCase(TEST_SENTENCE);
         
 
         WebDriver webDriver = new ChromeDriver();
@@ -67,7 +67,7 @@ public class HomeWork_07Test {
     public void testToSentenceCaseHappyPath() {
         final String expectedResult = "Мама мыла раму.";
 
-        final String actualResult = new HomeWork_07().printToSentenceCase(TEST_SENTENCE);
+        final String actualResult = new TeamWork_07().printToSentenceCase(TEST_SENTENCE);
 
         Assert.assertEquals(actualResult, expectedResult);
     }
@@ -78,7 +78,7 @@ public class HomeWork_07Test {
         final String sentence = "";
         final String expectedResult = "";
 
-        final String actualResult = new HomeWork_07().printToSentenceCase(sentence);
+        final String actualResult = new TeamWork_07().printToSentenceCase(sentence);
 
         Assert.assertEquals(actualResult, expectedResult);
 
